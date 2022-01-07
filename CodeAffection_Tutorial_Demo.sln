@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeAffection_Tutorial_Demo", "CodeAffection_Tutorial_Demo\CodeAffection_Tutorial_Demo.csproj", "{F84344D5-3CD6-4E27-ACD9-E50F8739D9D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F84344D5-3CD6-4E27-ACD9-E50F8739D9D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F84344D5-3CD6-4E27-ACD9-E50F8739D9D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F84344D5-3CD6-4E27-ACD9-E50F8739D9D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F84344D5-3CD6-4E27-ACD9-E50F8739D9D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47EA4DEA-1955-4B09-9F1B-727EE7A2D9C1}
+	EndGlobalSection
+EndGlobal
